@@ -291,29 +291,6 @@ body{
     left:13px;
     -webkit-transform:rotate(-5deg);
 }
-.hair{
-    position: relative;
-}
-.left_hair_one{
-    width: 130px;
-    height: 100px;
-    border-radius: 50%;
-    border-top:8px solid #000;
-    position: absolute;
-    left:17px;
-    top:-17px;
-    -webkit-transform:rotate(27deg);
-}
-.left_hair_two{
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    border-top:6px solid #000;
-    position: absolute;
-    left:45px;
-    top:-10px;
-    -webkit-transform:rotate(15deg);
-}
 .groundShadow{
     width: 200px;
     height: 2px;
